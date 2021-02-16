@@ -1,2 +1,2 @@
-server:
-  port: 80
+config:
+  info: this is dev environment config file
