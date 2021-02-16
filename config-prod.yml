@@ -1,2 +1,2 @@
-server:
-  port: 80
+config:
+  info: this is prod environment config file, version 1.0
